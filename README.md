@@ -22,7 +22,7 @@ encryption_password="my_password"
 split_size=50M (or e.g. 1G for 1 GB)
 ```
 
-the folder containing the shell script `main_backup.sh` must be outside `backup_me`. start the process via
+start the process via
 
 ```
 sh main_backup.sh
